@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 7207d4b7a91baea4cb8d493863566a5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8936920944443210622
+    second: Pirate_Lose_0
+  - first:
+      213: 1921583197473136546
+    second: Pirate_Lose_1
+  - first:
+      213: -9058864064057722555
+    second: Pirate_Lose_2
+  - first:
+      213: 7727097853589165520
+    second: Pirate_Lose_3
+  - first:
+      213: -4822607044239049556
+    second: Pirate_Lose_4
+  - first:
+      213: -4475482463678046750
+    second: Pirate_Lose_5
+  - first:
+      213: 4111597386304386212
+    second: Pirate_Lose_6
+  - first:
+      213: 6915576529385217005
+    second: Pirate_Lose_7
+  - first:
+      213: 8574230915294482998
+    second: Pirate_Lose_8
+  - first:
+      213: 4597847058596800779
+    second: Pirate_Lose_9
+  - first:
+      213: 4555755902101140908
+    second: Pirate_Lose_10
+  - first:
+      213: 5671287269659036015
+    second: Pirate_Lose_11
+  - first:
+      213: -7058825038975432164
+    second: Pirate_Lose_12
+  - first:
+      213: -2110675575161855012
+    second: Pirate_Lose_13
+  - first:
+      213: -4957512691213733257
+    second: Pirate_Lose_14
+  - first:
+      213: -105039012533025225
+    second: Pirate_Lose_15
+  - first:
+      213: -9167833031365846747
+    second: Pirate_Lose_16
+  - first:
+      213: 6963327224050930870
+    second: Pirate_Lose_17
+  - first:
+      213: 3341852724027785450
+    second: Pirate_Lose_18
+  - first:
+      213: 535285825851381534
+    second: Pirate_Lose_19
+  - first:
+      213: -1481543346744274761
+    second: Pirate_Lose_20
+  - first:
+      213: -7612997509846173830
+    second: Pirate_Lose_21
+  - first:
+      213: 7679535084590719364
+    second: Pirate_Lose_22
+  - first:
+      213: -6204321124197544735
+    second: Pirate_Lose_23
+  - first:
+      213: -5163223682670874842
+    second: Pirate_Lose_24
+  - first:
+      213: -7187469049824267317
+    second: Pirate_Lose_25
+  - first:
+      213: 8098563879276163762
+    second: Pirate_Lose_26
+  - first:
+      213: -281502141775382067
+    second: Pirate_Lose_27
+  - first:
+      213: 3183912244418241215
+    second: Pirate_Lose_28
+  - first:
+      213: -1383126513838311896
+    second: Pirate_Lose_29
+  - first:
+      213: -7941033047391785501
+    second: Pirate_Lose_30
+  - first:
+      213: -3785985185545013123
+    second: Pirate_Lose_31
+  - first:
+      213: 3362957383695668278
+    second: Pirate_Lose_32
+  - first:
+      213: 3084345087567986693
+    second: Pirate_Lose_33
+  - first:
+      213: -296472868103063886
+    second: Pirate_Lose_34
+  - first:
+      213: -3108526434358561905
+    second: Pirate_Lose_35
+  - first:
+      213: 1688491300433880605
+    second: Pirate_Lose_36
+  - first:
+      213: 7175762418188577110
+    second: Pirate_Lose_37
+  - first:
+      213: 733616872950979847
+    second: Pirate_Lose_38
+  - first:
+      213: 924611397705723676
+    second: Pirate_Lose_39
+  - first:
+      213: -5583558543849013543
+    second: Pirate_Lose_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pirate_Lose_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3844
+        width: 1276
+        height: 1276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b3947cf32560c70800000000000000
+      internalID: 8936920944443210622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Lose_1
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 3844
+        width: 1276
+        height: 1276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afdeb3bcb5daaa10800000000000000
+      internalID: 1921583197473136546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Lose_2
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 3844
+        width: 1276
+        height: 1276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549b9413123784280800000000000000
+      internalID: -9058864064057722555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Lose_3
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 3844
+        width: 1276
+        height: 1276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d59dd3de8a2c3b60800000000000000
+      internalID: 7727097853589165520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Lose_4
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 3844
+        width: 1276
+        height: 1276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacb5dcc178a21db0800000000000000
+      internalID: -4822607044239049556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Lose_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2563
+        width: 1276
+        height: 1276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eddaf15964e3e1c0800000000000000
+      internalID: -4475482463678046750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Lose_6
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 2563
+        width: 1276
+        height: 1276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4f816e9045f0930800000000000000
+      internalID: 4111597386304386212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Lose_7
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 2563
+        width: 1276
+        height: 1276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debd803963019ff50800000000000000
+      internalID: 6915576529385217005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Lose_8
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 2563
+        width: 1276
+        height: 1276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632dc48d699cdf670800000000000000
+      internalID: 8574230915294482998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Lose_9
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 2563
+        width: 1276
+        height: 1276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09ac331a85decf30800000000000000
+      internalID: 4597847058596800779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Lose_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1282
+        width: 1276
+        height: 1276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5b0240bdb493f30800000000000000
+      internalID: 4555755902101140908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Lose_11
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1282
+        width: 1276
+        height: 1276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69c83759b574be40800000000000000
+      internalID: 5671287269659036015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Lose_12
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 1282
+        width: 1276
+        height: 1276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a8c3cb6040a0e90800000000000000
+      internalID: -7058825038975432164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Lose_13
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 1282
+        width: 1276
+        height: 1276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3626a4fbf55b2e0800000000000000
+      internalID: -2110675575161855012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Lose_14
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 1282
+        width: 1276
+        height: 1276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772f6be2970633bb0800000000000000
+      internalID: -4957512691213733257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Lose_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1276
+        height: 1276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736496a1393da8ef0800000000000000
+      internalID: -105039012533025225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Lose_16
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1
+        width: 1276
+        height: 1276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52998556e6055c080800000000000000
+      internalID: -9167833031365846747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Lose_17
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 1
+        width: 1276
+        height: 1276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4dc5c8735b2a060800000000000000
+      internalID: 6963327224050930870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Lose_18
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 1
+        width: 1276
+        height: 1276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0095bb855a06e20800000000000000
+      internalID: 3341852724027785450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Lose_19
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 1
+        width: 1276
+        height: 1276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e175c2f5f97bd6700800000000000000
+      internalID: 535285825851381534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c73f35bc3952e9548b23e24dbf8d8b1f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":4.0},"gridSpriteSize":{"x":1276.0,"y":1276.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":5.0,"y":5.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Pirate_Lose_0: 8936920944443210622
+      Pirate_Lose_1: 1921583197473136546
+      Pirate_Lose_10: 4555755902101140908
+      Pirate_Lose_11: 5671287269659036015
+      Pirate_Lose_12: -7058825038975432164
+      Pirate_Lose_13: -2110675575161855012
+      Pirate_Lose_14: -4957512691213733257
+      Pirate_Lose_15: -105039012533025225
+      Pirate_Lose_16: -9167833031365846747
+      Pirate_Lose_17: 6963327224050930870
+      Pirate_Lose_18: 3341852724027785450
+      Pirate_Lose_19: 535285825851381534
+      Pirate_Lose_2: -9058864064057722555
+      Pirate_Lose_3: 7727097853589165520
+      Pirate_Lose_4: -4822607044239049556
+      Pirate_Lose_5: -4475482463678046750
+      Pirate_Lose_6: 4111597386304386212
+      Pirate_Lose_7: 6915576529385217005
+      Pirate_Lose_8: 8574230915294482998
+      Pirate_Lose_9: 4597847058596800779
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

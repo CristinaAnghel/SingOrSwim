@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: b54a130139dee7f4bbc1250523f2f9af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2629989766716174083
+    second: Pirate_Heart_Break_Spritesheet_0
+  - first:
+      213: -1453233254014559139
+    second: Pirate_Heart_Break_Spritesheet_1
+  - first:
+      213: 4283847720470631069
+    second: Pirate_Heart_Break_Spritesheet_2
+  - first:
+      213: 8226503622361542517
+    second: Pirate_Heart_Break_Spritesheet_3
+  - first:
+      213: 6887378048999833084
+    second: Pirate_Heart_Break_Spritesheet_4
+  - first:
+      213: 3685523679982802249
+    second: Pirate_Heart_Break_Spritesheet_5
+  - first:
+      213: 8372103580735531690
+    second: Pirate_Heart_Break_Spritesheet_6
+  - first:
+      213: -6106762308529768250
+    second: Pirate_Heart_Break_Spritesheet_7
+  - first:
+      213: 6172308962329128088
+    second: Pirate_Heart_Break_Spritesheet_8
+  - first:
+      213: -4447264352193380518
+    second: Pirate_Heart_Break_Spritesheet_9
+  - first:
+      213: 3785743035303179245
+    second: Pirate_Heart_Break_Spritesheet_10
+  - first:
+      213: 3909867257652545947
+    second: Pirate_Heart_Break_Spritesheet_11
+  - first:
+      213: -9091977860728793660
+    second: Pirate_Heart_Break_Spritesheet_12
+  - first:
+      213: -6182747594208964341
+    second: Pirate_Heart_Break_Spritesheet_13
+  - first:
+      213: -2277778622977743695
+    second: Pirate_Heart_Break_Spritesheet_14
+  - first:
+      213: -6614483109781547388
+    second: Pirate_Heart_Break_Spritesheet_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pirate_Heart_Break_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2867
+        width: 727
+        height: 658
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fa70032c99f7420800000000000000
+      internalID: 2629989766716174083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Heart_Break_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 2864
+        width: 727
+        height: 658
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c5da61e0415dbe0800000000000000
+      internalID: -1453233254014559139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Heart_Break_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 2813
+        width: 799
+        height: 683
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92d4821ec8437b30800000000000000
+      internalID: 4283847720470631069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Heart_Break_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1603
+        width: 753
+        height: 661
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fe25a65796a2270800000000000000
+      internalID: 8226503622361542517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Heart_Break_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1600
+        width: 799
+        height: 683
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd357c38d1e49f50800000000000000
+      internalID: 6887378048999833084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Heart_Break_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 1419
+        width: 848
+        height: 734
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9455aac924c952330800000000000000
+      internalID: 3685523679982802249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Heart_Break_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 903
+        height: 743
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa648079dfaf2470800000000000000
+      internalID: 8372103580735531690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 03cf4b8912e79bf4fbad4f4b2a54d0a7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":3.0},"gridSpriteSize":{"x":1273.0,"y":1273.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":10.0,"y":10.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Pirate_Heart_Break_Spritesheet_0: 2629989766716174083
+      Pirate_Heart_Break_Spritesheet_1: -1453233254014559139
+      Pirate_Heart_Break_Spritesheet_2: 4283847720470631069
+      Pirate_Heart_Break_Spritesheet_3: 8226503622361542517
+      Pirate_Heart_Break_Spritesheet_4: 6887378048999833084
+      Pirate_Heart_Break_Spritesheet_5: 3685523679982802249
+      Pirate_Heart_Break_Spritesheet_6: 8372103580735531690
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
